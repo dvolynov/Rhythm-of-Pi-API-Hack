@@ -1,0 +1,10 @@
+requests
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+aiofiles
+httpx
+sqlalchemy
+psycopg2-binary
+mpmath
